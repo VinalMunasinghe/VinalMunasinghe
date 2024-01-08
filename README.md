@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Kanishka Jayarathna</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Vinal Munasinghe</h1>
+<h3 align="center">A passionate Business Analyst/Full Stack developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkagj&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkagj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinalMunasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="VinalMunasinghe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kgjayarathna" target="blank"><img src="https://img.shields.io/twitter/follow/kgjayarathna?logo=twitter&style=for-the-badge" alt="kgjayarathna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/23Vinal" target="blank"><img src="https://img.shields.io/twitter/follow/VinalMunasinghe?logo=twitter&style=for-the-badge" alt="VinalMunasinghe" /></a> </p>
 
-- 🔭 I’m currently working on **IOS Mobile Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, Web Development**
 
-- 📫 How to reach me **gathumina@gmail.com**
+- 📫 How to reach me **vinalmunasinghe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
