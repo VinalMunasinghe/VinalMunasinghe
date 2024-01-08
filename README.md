@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi 👋, I'm Vinal Munasinghe
+A passionate Business Analyst/Full Stack developer from Sri Lanka
+Coding
 
-<!--
-**VinalMunasinghe/VinalMunasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kanishkagj
 
-Here are some ideas to get you started:
+kgjayarathna
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Web Development
+
+🌱 I’m currently learning React
+
+💬 Ask me about Java, Web Development
+
+📫 How to reach me vinalmunasinghe@gmail.com
+
+Connect with me:
+kgjayarathna https://www.linkedin.com/in/kanishkagj/ https://www.facebook.com/kanishkagj/ https://www.instagram.com/kanishka_g_j/ https://www.youtube.com/channel/ucpgnsr_d2zzh_nz5eav41wq
+
+Languages and Tools:
+android bootstrap c c plus plus express figma firebase git html5 java javascript kotlin linux mongodb mysql nodejs oracle postman python react swift
+
+
+
+
